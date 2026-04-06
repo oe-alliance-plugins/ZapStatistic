@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Shows the watched services with some statistic",
+  "description_recipe": "Shows the watched services with some statistic",
+  "history_source_dir": "zapstatistic",
+  "internal_package_name": "enigma2-plugin-extensions-zapstatistic",
+  "module_dir_name": "ZapStatistic",
+  "output_subdir": "zapstatistic",
+  "package_name": "enigma2-plugin-extensions-zapstatistic",
+  "plugin_src_rel": "zapstatistic",
+  "python_package": "ZapStatistic",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "ZapStatistic",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
